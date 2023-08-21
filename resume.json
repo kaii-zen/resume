@@ -143,311 +143,103 @@
   ],
   "skills": [
     {
-      "name": "Bash",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Production Deployment",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Swift (Programming Language)",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Apple Software",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Storage",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Node.js",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Software Development",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Site Reliability Engineering",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Terraform",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Continuous Integration (CI)",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Professional Services",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Solution Architecture",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "IT Management",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Technical Support",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Amazon Web Services (AWS)",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Security",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Chef",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Ruby",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Architecture",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Pre-sales",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
       "name": "DevOps",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
-
-      ]
-    },
-    {
-      "name": "Cybersecurity",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "System Architecture",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Python (Programming Language)",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "SaaS",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Unix",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Shell Scripting",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "VoIP",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Docker Products",
-      "level": "",
-      "keywords": [
-
+        "Continuous Integration (CI/CD)",
+        "Infrastructure as Code (IaC)",
+        "Automation",
+        "Configuration Management",
+        "Containerization",
+        "Orchestration",
+        "Cloud Platforms (AWS)",
+        "Monitoring and Logging",
+        "Deployment Pipelines",
+        "Version Control (Git)",
+        "Scripting (Bash, Python, Ruby)"
       ]
     },
     {
       "name": "Cloud Computing",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
-
+        "Amazon Web Services (AWS)",
+        "Microsoft Azure",
+        "Google Cloud Platform (GCP)",
+        "Serverless Architecture",
+        "Microservices",
+        "Networking in the Cloud",
+        "Infrastructure Scalability"
       ]
     },
     {
-      "name": "TCP/IP",
-      "level": "",
+      "name": "Containerization",
+      "level": "Advanced",
       "keywords": [
-
+        "Docker",
+        "Docker Compose",
+        "Container Orchestration",
+        "Microservices Deployment",
+        "NixOS Containers"
       ]
     },
     {
-      "name": "Servers",
-      "level": "",
+      "name": "Configuration Management",
+      "level": "Advanced",
       "keywords": [
-
+        "Ansible",
+        "Chef",
+        "NixOps"
       ]
     },
     {
-      "name": "Virtualization",
-      "level": "",
+      "name": "Monitoring and Logging",
+      "level": "Intermediate",
       "keywords": [
-
+        "Prometheus",
+        "Grafana",
+        "ELK Stack (Elasticsearch, Logstash, Kibana)"
       ]
     },
     {
-      "name": "Integration",
-      "level": "",
+      "name": "CI/CD Tools",
+      "level": "Advanced",
       "keywords": [
-
+        "Buildkite",
+        "GitHub Actions",
+        "CircleCI",
+        "Travis CI",
+        "Automated Testing",
+        "Deployment Pipelines"
       ]
     },
     {
-      "name": "Infrastructure",
-      "level": "",
+      "name": "Scripting Languages",
+      "level": "Advanced",
       "keywords": [
-
+        "Bash",
+        "Perl",
+        "Python",
+        "Ruby"
       ]
     },
     {
-      "name": "Nagios Core",
-      "level": "",
+      "name": "Version Control",
+      "level": "Advanced",
       "keywords": [
-
+        "Git",
+        "GitFlow",
+        "GitHub",
+        "Version Control Best Practices"
       ]
     },
     {
-      "name": "Networking",
-      "level": "",
+      "name": "Infrastructure as Code",
+      "level": "Advanced",
       "keywords": [
-
-      ]
-    },
-    {
-      "name": "Enterprise Software",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Network Security",
-      "level": "",
-      "keywords": [
-
+        "Terraform",
+        "CloudFormation",
+        "NixOps"
       ]
     }
   ],
