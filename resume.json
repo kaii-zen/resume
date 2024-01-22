@@ -31,9 +31,14 @@
       "highlights": [
 
       ],
-      "summary": "kreisys (with lowercase k) is my own incorporated entity, under which I intend to release some apps I've been working on in my spare time to the App Store.\nThe title Jokr is meant in the sense of a generalist, as in, I do whatever is necessary. It is also a reference to an Alan Watts lecture.\nSerious recruiters are advised to skip this section and head down to the more relevant experience below.",
+      "summary": "kreisys (with lowercase k) is my own incorporated entity, under which I do some mobile dev work on both my own apps and the occasional freelance gig.",
       "url": "https://www.linkedin.com/company/kreisys/",
-      "location": "Montreal, Quebec, Canada"
+      "location": "Montreal, Quebec, Canada",
+      "highlights": [
+	      "Migrated a UIKit/CocoaPods-based music app to SwiftUI/SPM in a gradual manner that kept it working.",
+	      "Wrote a SwiftUI-based app that rates images using a freely-available machine learning model.",
+	      "Currently working on a second SwiftUI app for tracking the content of a shopping cart using scanned barcodes."
+      ]
     },
     {
       "name": "Input Output Global (formerly IOHK)",
