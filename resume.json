@@ -147,6 +147,16 @@
   ],
   "skills": [
     {
+      "name": "Apple Ecosystem",
+      "level": "Intermediate",
+      "keywords": [
+        "Swift",
+        "SwiftUI",
+        "Xcode",
+        "UIKit"
+      ]
+    },
+    {
       "name": "DevOps",
       "level": "Advanced",
       "keywords": [
