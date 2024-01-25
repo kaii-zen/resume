@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/thomasdavis/resume/issues"
   },
-  "homepage": "https://github.com/thomasdavis/resume#readme"
+  "homepage": "https://github.com/thomasdavis/resume#readme",
+  "dependencies": {
+    "fluentcv": "^1.9.0-beta",
+    "hackmyresume": "^1.9.0-beta",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-full": "^0.0.4",
+    "wkhtmltopdf": "^0.4.0"
+  }
 }
