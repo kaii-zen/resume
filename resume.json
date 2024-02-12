@@ -25,20 +25,12 @@
   },
   "work": [
     {
-      "name": "kreisys corporation",
-      "position": "Jokr",
-      "startDate": "2022-08",
-      "highlights": [
-
-      ],
-      "summary": "kreisys (with lowercase k) is my own incorporated entity, under which I do some mobile dev work on both my own apps and the occasional freelance gig.",
+      "name": "kreisys",
+      "position": "Freelancing",
+      "startDate": "2023-04",
+      "summary": "kreisys is my own incorporated entity under which I've been freelancing in the field of iOS mobile development.",
       "url": "https://www.linkedin.com/company/kreisys/",
-      "location": "Montreal, Quebec, Canada",
-      "highlights": [
-	      "Migrated a UIKit/CocoaPods-based music app to SwiftUI/SPM in a gradual manner that kept it working.",
-	      "Wrote a SwiftUI-based app that rates images using a freely-available machine learning model.",
-	      "Currently working on a second SwiftUI app for tracking the content of a shopping cart using scanned barcodes."
-      ]
+      "location": "Montreal, Quebec, Canada"
     },
     {
       "name": "Input Output Global (formerly IOHK)",
