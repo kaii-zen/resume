@@ -38,6 +38,8 @@
       "startDate": "2019-02",
       "endDate": "2023-03",
       "highlights": [
+        "Participated in the development and maintenance of the team's itnernal deployment tools (exposure to Rust, Golang and Crystal).",
+	"Made contributions to upstream Nix-ecosystem tools (exposure to C++, Python and Perl).",
         "Collaborated with cross-functional teams to design and implement robust infrastructure solutions, ensuring high availability and scalability for critical systems.",
         "Deployed and maintained monitoring and alerting systems to proactively identify and resolve performance issues.",
         "Developed and automated deployment pipelines using various tools and services, including CircleCI, Buildkite, Docker, Nix; and its native CI solution Hydra.",
@@ -60,7 +62,8 @@
         "Leveraged infrastructure-as-code (IaC) principles to codify and automate the provisioning and management of cloud infrastructure, enhancing scalability and reducing manual configuration efforts.",
         "Implemented configuration management practices to maintain consistent and secure instance configurations, minimizing downtime and enhancing system stability.",
         "Developed and implemented monitoring and metrics collection systems to gain insights into system performance, enabling proactive identification and resolution of issues.",
-        "Actively pursued ongoing professional development to stay updated with the latest industry trends and technologies, continuously enhancing skills and knowledge."
+        "Actively pursued ongoing professional development to stay updated with the latest industry trends and technologies, continuously enhancing skills and knowledge.",
+	"Developed a self-serve deployment dashboard for the developers, leveraging NodeJS, WebSockets, Ember.js and the GitHub API."
       ],
       "url": "https://www.linkedin.com/company/benbria/",
       "location": "Ottawa, ON"
@@ -72,8 +75,8 @@
       "endDate": "2013-10",
       "highlights": [
         "Led the successful migration to EC2 cloud infrastructure, ensuring a seamless transition and improved scalability for critical systems.",
-        "Automated the deployment and configuration management of production instances, reducing manual efforts and enabling faster and more reliable releases.",
-        "Developed internal tools and dashboards to enhance operational efficiency and help control cloud resources cost."
+        "Automated the deployment and configuration management of production instances, reducing manual toil and enabling faster and more reliable releases.",
+        "Developed internal tools and dashboards to enhance operational efficiency and help control cloud resources cost (exposure to Java and Ruby on Rails)."
       ],
       "url": "https://www.linkedin.com/company/panaya/",
       "location": "Ra'anana, Israel"
@@ -84,8 +87,9 @@
       "startDate": "2008-01",
       "endDate": "2009-05",
       "highlights": [
-        "Manage, maintain and monitor customer production servers",
-        "Perform overseas bare metal deployments"
+        "Manage, maintain and monitor customer production servers.",
+        "Provide technical support to customers over the phone and on-site.",
+        "Perform overseas bare metal deployments, including overseas."
       ],
       "location": "Netanya, Israel"
     },
