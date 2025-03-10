@@ -25,12 +25,36 @@
   },
   "work": [
     {
-      "name": "kreisys",
-      "position": "Freelancing",
-      "startDate": "2023-04",
-      "summary": "kreisys is my own incorporated entity under which I've been freelancing in the field of iOS mobile development.",
+      "name": "Flo-Fab Inc",
+      "url": "https://www.flofab.com",
+      "startDate": "2024-06",
+      "endDate": "2025-06",
+      "summary": "Responsible for developing the production dashboard from scratch for Flo-Fab’s new internal system, using ASP.NET Core for the backend, React for the frontend, and MSSQL for the database. As part of a cohort of 3 students, worked alongside Flo-Fab’s internal development team to design, implement, and refine a key component of the system. Involved in both backend and frontend development, contributing to the full stack while adhering to project specifications.",
+      "highlights": [
+        "Implemented API endpoints and developed responsive UI components for the production dashboard using ASP.NET Core, React, and MSSQL.",
+        "Integrated testing frameworks into the project and implemented unit and integration tests to ensure system reliability.",
+        "Created a CI pipeline to improve the build and integration process, enhancing development workflow.",
+        "Actively used version control (Git) for collaboration and change management.",
+        "Reviewed pull requests to ensure code quality and adherence to project standards.",
+        "Followed Agile and Scrum methodologies, participating in regular sprints, standups, and backlog grooming to manage project tasks and progress.",
+        "Collaborated with fellow students and Flo-Fab’s developers to build and refine the production dashboard based on project specifications."
+      ],
+      "location": "Montréal, QC"
+    },
+    {
+      "name": "Self-employed (Freelance)",
+      "position": "iOS developer",
+      "startDate": "2023-07",
+      "endDate": "2024-06",
+      "summary": "Developed and launched a photo rating app on the App Store, initially created as a personal project. Gained further experience through freelance work maintaining a music app, refining skills in app development and deployment.",
       "url": "https://www.linkedin.com/company/kreisys/",
-      "location": "Montreal, Quebec, Canada"
+      "location": "Montréal, QC",
+      "highlights": [
+        "Developed and published a mobile app, designing and implementing its UI and core functionality.",
+        "Maintained and improved an existing music app, fixing bugs, refining UX, and ensuring stability for active users.",
+        "Communicated with stakeholders to prioritize issues and implement solutions effectively.",
+        "Optimized performance and improved maintainability in both projects through targeted refactoring and enhancements."
+      ]
     },
     {
       "name": "Input Output Global (formerly IOHK)",
@@ -124,6 +148,17 @@
 
   ],
   "education": [
+    {
+      "institution": "Le Collège de Bois-de-Boulogne",
+      "area": "Software Development",
+      "studyType": "AEC",
+      "startDate": "2024",
+      "endDate": "2025",
+      "url": "https://www.bdeb.qc.ca",
+      "courses": [
+        "Analyste Programmeur"
+      ]
+    },
     {
       "institution": "The Academic College of Tel-Aviv, Yaffo",
       "area": "Computer Science (incomplete)",
