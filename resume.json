@@ -6,11 +6,11 @@
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   },
   "basics": {
-    "name": "Kaï-Zen Berg-Šæmañn",
-    "label": "Senior DevOps/Site Reliability expert with AWS proficiency.",
+    "name": "Kaï (Shay) Bergmann",
+    "label": "DevOps Engineer | AWS & Cloud Automation",
     "image": "https://avatars.githubusercontent.com/u/1857338?v=4",
     "email": "k@izen.one",
-    "summary": "With over 14 years of work experience, I am a seasoned site reliability engineer and infrastructure solutions specialist, passionate about designing and implementing robust, scalable, and high-performance systems. I have a strong background in DevOps, Linux, and cloud computing, and I am proficient in various tools and services, such as AWS, Nix, Docker and Terraform.\n\nAs a site reliability engineer at IOHK, I have been involved in various projects and initiatives, such as deploying and maintaining monitoring and alerting systems, developing and automating deployment pipelines, conducting incident response and root cause analysis, and collaborating with development teams to improve application performance, reliability, and scalability. I have also leveraged infrastructure-as-code principles to codify and automate the provisioning and management of cloud infrastructure, enhancing scalability and reducing manual configuration efforts.",
+    "summary": "DevOps Engineer with extensive experience in cloud infrastructure automation and CI/CD pipeline management. Proficient in using Terraform for infrastructure as code and working with a variety of CI tools like CircleCI, Travis, and Buildkite. Skilled in cloud resource management, security automation with tools like Vault, and optimizing workflows for efficiency and reliability. Strong foundation in deploying scalable systems and managing cloud environments to support dynamic business needs.",
     "location": {
       "city": "Montréal",
       "countryCode": "QC"
@@ -25,7 +25,8 @@
   },
   "work": [
     {
-      "name": "Flo-Fab Inc",
+      "name": "Flo-Fab Inc (via Collège de Bois-des-Boulogne)",
+      "position": "Fullstack Developer (Student)",
       "url": "https://www.flofab.com",
       "startDate": "2024-06",
       "endDate": "2025-06",
