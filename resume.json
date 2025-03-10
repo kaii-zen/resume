@@ -30,7 +30,7 @@
       "url": "https://www.flofab.com",
       "startDate": "2024-06",
       "endDate": "2025-06",
-      "summary": "Responsible for developing the production dashboard from scratch for Flo-Fab’s new internal system, using ASP.NET Core for the backend, React for the frontend, and MSSQL for the database. As part of a cohort of 3 students, worked alongside Flo-Fab’s internal development team to design, implement, and refine a key component of the system. Involved in both backend and frontend development, contributing to the full stack while adhering to project specifications.",
+      "summary": "Developing the production dashboard for a manufacturing company’s new internal system as part of a cohort of 3 students. Responsible for both backend and frontend development to create a key component used by factory workers to streamline production processes.",
       "highlights": [
         "Implemented API endpoints and developed responsive UI components for the production dashboard using ASP.NET Core, React, and MSSQL.",
         "Integrated testing frameworks into the project and implemented unit and integration tests to ensure system reliability.",
